@@ -1,0 +1,11 @@
+clear
+	echo -E 'cositas/'
+	echo -E '├── milpa.sh'
+	echo -E '├── aiuda.sh'
+	echo -E '├── wachar.sh'
+	echo -E '├── creditos.sh'
+	echo -E '├── infosis.sh'
+	echo -E '├── juegos'
+	echo -E '│   ├── ahorcado.sh'
+	echo -E '│   └── gato.sh'
+	echo -E '└── prebeprockola.sh'
